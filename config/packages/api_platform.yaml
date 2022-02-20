@@ -1,6 +1,6 @@
 api_platform:
     title: 'Symfony MCQ API'
-    description: 'API for Symfony MCQ - A Multiple Choices Question Website'
+    description: 'API for Symfony MCQ - A Multiple Choices Question Website for Symfony'
     version: '0.0.1'
     mapping:
         paths: ['%kernel.project_dir%/src/Entity']
